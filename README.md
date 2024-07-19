@@ -98,7 +98,7 @@ This project includes several smart contracts:
 
 ## Authors
 
-- **Akhanda Pal Biswas** - [LinkedIn]([https://www.linkedin.com/in/aditi-rajput-b9360720b/])
+- **Aditi Rajput** - [LinkedIn](https://www.linkedin.com/in/aditi-rajput-b9360720b/)
 
 ## License
 
